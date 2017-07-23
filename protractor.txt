@@ -1,0 +1,60 @@
+Sparity-Meetup
+sparity@123
+
+npm init (package.json)
+npm install protractor --save-d
+node > 6.0
+npm > 3.0.0
+java >= 1.8
+
+
+IDE
+---
+
+VS code
+atom
+sublimetext3
+eclipse - term project
+Notepad++
+
+
+sublime
+
+
+
+xdescribe('',function(){
+beforeAll(function(){
+loginobj.login(username.password)
+});
+afterAll(function(){
+});
+beforeEach(function(){
+});
+afterEach(function(){
+});
+it('',function(){
+expect(actual).not.toEqual(expected);
+});
+it('',function(){
+expect(actual).toEqual(expected);
+})
+
+
+
+
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
